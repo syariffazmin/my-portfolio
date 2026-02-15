@@ -81,7 +81,7 @@ export default {
         {
           company: "Mesiniaga Berhad",
           role: "Frontend Developer Intern",
-          duration: "Oct 2023 – Apr 2024",
+          duration: "July 2023 – September 2023",
           desc: "Contributed to the development of a government web application using Vue.js and Ionic. Built responsive UI components with HTML, CSS, and Bootstrap, and integrated Firebase for real-time data management. Gained hands-on experience consuming REST APIs, testing endpoints with Postman, and collaborating within an Agile development workflow.",
           language: "JavaScript",
           framework: "Vue.js",
