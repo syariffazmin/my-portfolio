@@ -15,7 +15,7 @@
         <div class="col-xl-4 text-center">
           <div class="photo-wrapper mx-auto">
             <img
-              src="@/assets/passport.webp"
+              src="@/assets/items/passport.webp"
               alt="Professional Photo"
               class="img-fluid rounded-circle shadow" />
           </div>

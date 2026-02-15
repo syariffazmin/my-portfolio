@@ -1,7 +1,18 @@
 <template>
   <nav class="navbar navbar-expand-lg glass-nav fixed-top">
     <div class="container">
-      <a class="navbar-brand text-red-600" href="#">Navbar</a>
+      <a class="navbar-brand text-red-600" href="#"
+        ><img
+          src="@/assets/items/signature.png"
+          class="d-none d-md-block"
+          alt=""
+          style="max-height: 42px !important" />
+        <img
+          src="@/assets/items/signature.png"
+          class="d-block d-md-none"
+          alt=""
+          style="max-height: 30px !important"
+      /></a>
       <button
         class="navbar-toggler"
         type="button"
