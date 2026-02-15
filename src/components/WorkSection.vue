@@ -72,10 +72,10 @@
 
 <script>
 import EmptyGap from "./EmptyGap.vue";
-import car2 from "@/assets/cars/car-4.jpg";
-import car3 from "@/assets/cars/car-5.jpg";
-import car4 from "@/assets/cars/car-1.jpg";
-import car5 from "@/assets/cars/car-6.jpg";
+import car2 from "@/assets/japan/image-1.jpeg";
+import car3 from "@/assets/japan/image-5.jpeg";
+import car4 from "@/assets/japan/image-3.jpeg";
+import car5 from "@/assets/japan/image-6.jpeg";
 
 export default {
   name: "WorkSection",

@@ -45,7 +45,7 @@ onMounted(() => {
       /* Dark overlay (adjust opacity as needed) */ rgba(0, 0, 0, 0.5)
         /* Same dark overlay at the bottom */
     ),
-    url("@/assets/cars/car-7.jpg");
+    url("@/assets/japan/image-9.jpeg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
