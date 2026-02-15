@@ -27,25 +27,31 @@
         <!-- Bio -->
         <div class="col-xl-8">
           <p class="text-dark-200 word-animate">
-            I’m a passionate Frontend Developer with a flair for building clean,
-            responsive, and high-performing web experiences. With over 2 years
-            of hands-on experience in Vue.js, Bootstrap, and modern web
-            technologies, I bring a mix of creativity and precision to every
-            project. I thrive in collaborative teams, enjoy problem-solving, and
-            love turning complex ideas into intuitive user experiences.
+            I’m a passionate Frontend Developer with over 3+ years of hands-on
+            experience in building responsive, scalable, and user-centric web
+            applications. I specialize in modern JavaScript frameworks such as
+            Vue.js and React.js, alongside tools like Bootstrap and GSAP to
+            create smooth, interactive, and performance-driven user interfaces.
+            I enjoy transforming complex requirements into clean and intuitive
+            digital experiences through structured and maintainable code.
           </p>
 
           <p class="text-dark-200 word-animate">
-            Beyond code, I’m a continuous learner, exploring new frameworks and
-            tools, and always eager to push the boundaries of what a modern web
-            interface can do. I take pride in writing code that is not only
-            functional but also elegant and maintainable.
+            Throughout my development journey, I’ve worked with technologies
+            such as Firebase, RESTful APIs, and dynamic UI rendering to develop
+            real-world frontend solutions. My experience includes managing and
+            updating structured data within interfaces, optimizing responsive
+            layouts, and implementing animation-driven interactions to enhance
+            user engagement and usability across devices.
           </p>
 
           <p class="text-dark-200 word-animate">
-            When I’m not coding, you’ll find me experimenting with design
-            trends, contributing to open-source projects, or diving into a good
-            tech blog.
+            I am a continuous learner who enjoys exploring emerging frontend
+            tools and best practices to improve development workflows and code
+            quality. I take pride in writing efficient, reusable components and
+            building meaningful digital products that are not only functional
+            but also visually engaging, accessible, and aligned with modern web
+            standards.
           </p>
         </div>
       </div>
