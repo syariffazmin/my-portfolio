@@ -1,5 +1,5 @@
 <template>
-  <section id="work" class="work-section bg-dark-100 text-white-100">
+  <section id="works" class="work-section bg-dark-100 text-white-100">
     <EmptyGap base="40px" lg="70px" />
     <div class="container">
       <!-- Section Header -->

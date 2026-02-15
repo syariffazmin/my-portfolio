@@ -57,6 +57,7 @@ import firebaseIcon from "@/assets/icons/firebase.png";
 import mysqlIcon from "@/assets/icons/mysql.png";
 import nodeIcon from "@/assets/icons/nodejs.png";
 import restApiIcon from "@/assets/icons/restapi.png";
+import gsapIcon from "@/assets/icons/gsap-black.png";
 
 export default {
   name: "SkillsSection",
@@ -72,6 +73,7 @@ export default {
             { name: "HTML5", icon: htmlIcon },
             { name: "CSS3", icon: cssIcon },
             { name: "Bootstrap", icon: bootstrapIcon },
+            { name: "GSAP", icon: gsapIcon },
           ],
         },
         {

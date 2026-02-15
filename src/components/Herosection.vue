@@ -29,9 +29,9 @@ onMounted(() => {
         >
       </h1>
       <p class="text-white-300">
-        I craft clean, performant interfaces that users love.
-        <br class="d-none d-md-block" />Specializing in React, TypeScript, and
-        modern web technologies.
+        I design clean, fast, and engaging user interfaces.
+        <br class="d-none d-md-block" />Specializing in Vue.js, JavaScript, and
+        the latest web technologies.
       </p>
     </div>
   </section>
