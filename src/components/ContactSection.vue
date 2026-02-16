@@ -41,6 +41,13 @@
             class="icon-img" />
           <span>LinkedIn</span>
         </a>
+        <a
+          href="@/assets/files/resumeSyarif.pdf"
+          class="contact-icon"
+          download="Syarif-resume.pdf">
+          <img src="@/assets/icons/cv.png" alt="LinkedIn" class="icon-img" />
+          <span>Download CV</span>
+        </a>
       </div>
     </div>
     <EmptyGap base="40px" lg="60px" />

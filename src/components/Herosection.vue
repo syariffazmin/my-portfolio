@@ -20,7 +20,9 @@ onMounted(() => {
 
 <template>
   <section id="hero" class="hero-section">
-    <div class="container d-flex flex-column justify-content-center h-100">
+    <div
+      class="container d-flex flex-column justify-content-start justify-content-lg-center h-100">
+      <EmptyGap class="d-block d-lg-none" base="100px" lg="120px" />
       <h6 class="text-uppercase mb-0 text-red-500">Frontend Developer</h6>
       <h1 class="mb-0">
         <span class="text-red-500">Hi, I'm </span>
@@ -40,16 +42,20 @@ onMounted(() => {
 <style scoped>
 .hero-section {
   background-image:
-    linear-gradient(
-      rgba(0, 0, 0, 0.5),
-      /* Dark overlay (adjust opacity as needed) */ rgba(0, 0, 0, 0.5)
-        /* Same dark overlay at the bottom */
-    ),
-    url("@/assets/japan/image-9.jpeg");
+    linear-gradient(to bottom, rgba(0, 0, 0, 0.7) 44%, rgba(0, 0, 0, 0) 60%),
+    url("@/assets/japan/image-14-mobile.jpeg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
   width: 100%;
   height: 100vh; /* Full viewport height */
+}
+
+@media (min-width: 993px) {
+  .hero-section {
+    background-image:
+      linear-gradient(to right, rgba(0, 0, 0, 0.7) 40%, rgba(0, 0, 0, 0) 70%),
+      url("@/assets/japan/image-14.jpeg");
+  }
 }
 </style>
