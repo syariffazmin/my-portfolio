@@ -42,9 +42,9 @@
           <span>LinkedIn</span>
         </a>
         <a
-          href="@/assets/files/resumeSyarif.pdf"
+          href="/resumeSyarif.pdf"
           class="contact-icon"
-          download="Syarif-resume">
+          download="Syarif-resume.pdf">
           <img src="@/assets/icons/cv.png" alt="LinkedIn" class="icon-img" />
           <span>Download CV</span>
         </a>
