@@ -2,7 +2,7 @@
   <footer class="footer-section bg-dark-100 text-grey-300 text-center py-3">
     <div class="container">
       <p class="mb-0">
-        &copy; {{ new Date().getFullYear() }} Your Name. All rights reserved.
+        &copy; {{ new Date().getFullYear() }} Syarif Azmin. All rights reserved.
       </p>
     </div>
   </footer>
